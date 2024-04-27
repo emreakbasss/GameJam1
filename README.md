@@ -6,7 +6,8 @@ Oyun Karakteri
 
 ![IMG_0883](https://github.com/emreakbasss/GameJam1/assets/115668315/e5e9eade-4e5d-4a78-a1d2-bad44cc1ccef)
 
-Oyun Ortamı
+Oyun Tasarımı
 
 ![Ekran_goruntusu_2023-08-27_225142](https://github.com/emreakbasss/GameJam1/assets/115668315/b2e9d2a0-3fdb-4728-ac16-6dfcf9d5c809)
 
+<img width="958" alt="Ekran görüntüsü 2024-04-28 002420" src="https://github.com/emreakbasss/GameJam1/assets/115668315/bbf26004-b6d7-4637-bddc-4297b59376aa">
